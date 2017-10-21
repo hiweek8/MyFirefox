@@ -1,0 +1,2 @@
+# MyFirefox
+Firefox Portable
